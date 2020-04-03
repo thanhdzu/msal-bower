@@ -1,8 +1,8 @@
 {
-  "name": "msal-bower",
+  "name": "msal-js-bower",
   "homepage": "https://github.com/thanhdzu/msal-bower",
   "authors": [
-    "noname"
+    "noname@mail.com"
   ],
   "description": "msal for angularjs",
   "main": "./dist/msal.js",
