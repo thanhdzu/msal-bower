@@ -1,0 +1,20 @@
+{
+  "name": "msal-bower",
+  "homepage": "https://github.com/thanhdzu/msal-bower",
+  "authors": [
+    "noname"
+  ],
+  "description": "msal for angularjs",
+  "main": "./dist/msal.js",
+  "keywords": [
+    "msal-bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
